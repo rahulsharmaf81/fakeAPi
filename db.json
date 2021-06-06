@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "breedName": "LabraDor"
+      "price": "12000"
+      "color": "#33505a"
+      "imageUrl":"https://i.guim.co.uk/img/media/177f871940f3dabc5eb4b80020ec40a75648da99/0_176_4737_2840/master/4737.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=142afd8c5e67b79d939207a5e8e90fad"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
